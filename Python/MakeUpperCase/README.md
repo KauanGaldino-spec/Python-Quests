@@ -1,1 +1,1 @@
-Write a function that returns the total surface area and volume of a box as an array: [area, volume]
+Write a function which converts the input string to uppercase.
